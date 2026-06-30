@@ -15,7 +15,7 @@
 | **Written On** | June 30, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/gekreuzte-wege/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Gekreuzte Wege](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/gekreuzte-wege/) |
+| **Get License** | [Get License For Gekreuzte Wege](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/gekreuzte-wege/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Blicke kreuzen sich im Club, das Neonlicht auf deiner Haut
+> Baby, wir sind auf der Flucht, der Bass pumpt heute viel zu laut
+> Zieh dich nah an meine Brust, spür unsre Hitze in dem Raum
+> Unsre Wege sind gekreuzt, ich fall mit dir in diesen Traum
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
